@@ -1,0 +1,20 @@
+ <!-- SECCION PROJECTS/PROYECTOS-->
+ <section class="projects">
+    <h1 class="proyectos text-white">Proyectos</h1>
+    <div class="container-sup">
+
+
+    <div class="card carduno card-neon" style="width: 18rem; height: 25rem;" *ngFor="let proyecto of proyectos">
+      <img [src]="proyecto.IMG" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-white">{{ proyecto.titulo }}</h5>
+        <p class="card-text text-white">{{ proyecto.descripcion }}</p>
+        <a href="https://www.facebook.com/lossreparadores/" target="_blank" class="btn btn-primary">Visitar</a>
+      </div>
+    </div>
+
+    </div>
+
+  </section>  
+<br>
+  

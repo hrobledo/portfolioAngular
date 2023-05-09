@@ -1,0 +1,196 @@
+.habilities{
+    width: 100%;
+}
+
+
+.skills:not(:last-child){
+	margin-bottom: 30px;
+}
+
+.detalles{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.contenedor{ 
+
+    width: 50%;
+    margin-left: 12%;
+      /* width: 100%; 
+      padding: 30px 30px 50px;
+      background: linear-gradient(450deg,darkblue, black);
+      border: 2px solid rgba(0, 0, 0, 0.06);
+      border-radius: 10px;
+      box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
+      backdrop-filter: blur(10px);*/
+  }
+  
+  .contenedor *{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: whitesmoke;
+      font-weight: 500;
+  }
+  
+  h2{
+      margin-bottom:  50px;
+      letter-spacing: 2px;
+      text-align: center;
+      font-size: 34px;
+      font-weight: bold;
+  }
+  
+  .skills:not(:last-child){
+      margin-bottom: 30px;
+  }
+  
+  .detalles{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+  }
+  
+  .menu{
+      position: relative;
+      border: 2px solid rgb(76, 0, 255);
+      border-radius: 20px;
+  }
+  
+  .menu div{
+      position: relative;
+      width: 0;
+      height: 10px;
+      border-radius: 10px;
+      background-color: rgba(0, 255, 255, 0.747);
+  }
+  
+  #html-menu{
+      animation: html-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes html-barra{
+      100%{
+          width: 60%;
+      }
+  }
+  
+  #css-menu{
+      animation: css-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes css-barra{
+      100%{
+          width: 65%;
+      }
+  }
+  
+  #js-menu{
+      animation: js-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes js-barra{
+      100%{
+          width: 45%;
+      }
+  }
+  
+  #angular-menu{
+      animation: angular-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes angular-barra{
+      100%{
+          width: 45%;
+      }
+  }
+  
+  #ingles-menu{
+      animation: ingles-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes ingles-barra{
+      100%{
+          width: 45%;
+      }
+  }
+  
+  
+  #trabajoEquipo-menu{
+      animation: trabajoEquipo-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes trabajoEquipo-barra{
+      100%{
+          width: 90%;
+      }
+  }
+  
+  #emociones-menu{
+      animation: emociones-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes emociones-barra{
+      100%{
+          width: 70%;
+      }
+  }
+  
+  #proactividad-menu{
+      animation: proactividad-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes proactividad-barra{
+      100%{
+          width: 95%;
+      }
+  }
+  
+  
+  #comEfectiva-menu{
+      animation: comEfectiva-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes comEfectiva-barra{
+      100%{
+          width: 75%;
+      }
+  }
+  
+  #puntualidad-menu{
+      animation: puntualidad-barra 3s forwards 3;
+  
+  }
+  
+  @keyframes puntualidad-barra{
+      100%{
+          width: 100%;
+      }
+  }
+  
+  
+  .skill1{	
+      position:absolute;
+      
+      margin-left: 1%;
+      width: 70%;
+      margin-top: 0%;
+  }
+  
+  .skill2{
+      
+      margin-left: 45%;
+      margin-right: 1%;
+      margin-top: 4%;
+      width: 70%;
+  }

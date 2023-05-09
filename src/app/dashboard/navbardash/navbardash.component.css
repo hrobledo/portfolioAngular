@@ -1,0 +1,54 @@
+.bg-blue{
+    background-color: #26269c;
+
+}
+
+.fa-solid.fa-user.fa-2x:hover{
+    --bs-text-opacity: 1;
+    /* color: #f1f2f3 !important; */
+    color:green !important;
+  }
+
+i.fa-solid.fa-user{
+    color: green;
+}
+.list-group{
+    --bs-list-group-bg: transparent;
+    cursor: pointer;
+ }
+ 
+  .list-group-item{
+    border: none
+ }
+ 
+  .fa-brands.fa-linkedin.fa-2x:hover{
+   --bs-text-opacity: 1;
+   color: #f1f2f3 !important;
+ }
+ 
+ .fa-brands.fa-whatsapp.fa-2x:hover{
+   --bs-text-opacity: 1;
+   color: #f1f2f3 !important;
+ }
+ 
+ .fa-brands.fa-github.fa-2x:hover{
+   --bs-text-opacity: 1;
+   color: #f1f2f3 !important;
+ }
+ 
+ .fa-solid.fa-user-lock.fa-2x:hover{
+   --bs-text-opacity: 1;
+   /* color: #f1f2f3 !important; */
+   color: #f00101 !important;
+ }
+
+ i.fa-pen{
+    
+  color: aliceblue;
+  cursor: pointer;
+  
+}
+
+i.fa-pen:hover{
+ color: aquamarine;
+}

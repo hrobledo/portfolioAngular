@@ -1,0 +1,73 @@
+
+
+.bg-blue{ 
+    background-color: #26269c;
+
+}
+
+.admin{
+    font-size: 1.5rem;
+  }
+  
+  .admin-perfil{
+    margin-left: -5%;
+    filter: brightness(70%);
+  }
+  
+  .link{
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  
+  nav.vertical{
+    float: left;
+    margin-left: 0.1rem;
+  }
+  
+  li.vertical{
+  
+    display: block;
+    margin:0;
+    writing-mode: vertical;
+    padding: 1.75rem 0;
+    font-size: 1.25rem;
+    
+  }
+
+ 
+  
+  .fa-solid.fa-user.fa-2x:hover{
+    --bs-text-opacity: 1;
+    /* color: #f1f2f3 !important; */
+   color:green !important;
+  }
+
+  .fa-sharp.fa-solid.fa-share-nodes:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-image:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-circle-info:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-pen:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-briefcase:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-user-graduate:hover{
+    color: #26269c !important;
+  }
+
+  .fa-solid.fa-code:hover{
+    color: #26269c !important;
+  }
+  

@@ -1,0 +1,63 @@
+.estudy{
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+
+  .maquina{
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 3rem;
+    margin: 0 auto;
+    font-family: "Courier New";
+    border-right: 0.15em solid #18bdec;
+    animation: typing 5s steps(40) infinite alternate;
+    /* 1s 1 normal both, blink 1s steps(3) infinite */
+  }
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 45%;
+    }
+  }
+  @keyframes blink {
+    15% {
+      border-color: transparent;
+    }
+  }
+
+  .educ-marg{
+    margin-bottom: 5%;
+  }
+
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+  }
+
+  .columnacert{
+    position:relative;
+    left: 15%;
+    
+  }
+
+  .margen{
+    text-align: justify;;
+    color: #f1f2f3;
+  }
+
+  
+i.fa-pen{
+  color: hsl(0, 7%, 97%);
+  width: 60px;
+  height: 50px;
+  cursor: pointer;
+  
+}
+
+i.fa-pen:hover{
+ color: blue;
+}
+
+  

@@ -1,0 +1,123 @@
+{
+    "linked": "https://linkedin.com",
+    "iconLinked": "fa-brands fa-linkedin fa-solid fa-camera fa-2x text-black",
+    "git": "https://github.com/",
+    "iconGit": "fa-brands fa-github fa-solid fa-camera fa-2x text-black",
+    "wpp": "https://wa.me/5493816403715",
+    "iconWpp": "fa-brands fa-whatsapp fa-solid fa-camera fa-2x text-black",
+    
+    "nombre": "Héctor Gerardo",
+    "apellido":"Robledo",
+    "stack": "Desarrollador Web Full Stack Jr.",
+    "fotoPerfil": "/assets/img/Gerardo.jpg",
+    "acercaDeMi": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nesciunt, possimus nemo magni corporis alias iure aut a tempore quis amet quas quaerat molestiae officia. Quibusdam iste laborum similique accusantium? Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nesciunt, possimus nemo magni corporis alias iure aut a tempore quis amet quas quaerat molestiae officia. Quibusdam iste laborum similique accusantium?",
+    
+
+    "experiencias": [
+
+        {
+            
+            "empresa": "Empresa: NOANET SA.",
+            "puesto": "Puesto: Ejecutivo/Supervisor de turno en Contact Center de dicha empresa.",
+            "logoempresa":"/assets/img/noanet-logo2.jpg",
+            "invertir": "invertir-color"        },
+
+        {
+            
+            "empresa": "Empresa: Los Reparadores",
+            "puesto": "Puesto: Dueño emprendimiento propio de reparación y mantenimiento de PC.",
+            "logoempresa":"/assets/img/reparadores.jpg"
+        },
+        {
+            
+            "empresa": "Empresa: NOANET SA.",
+            "puesto": "Puesto: Ejecutivo/Supervisor de turno en Contact Center de dicha empresa.",
+            "logoempresa":"/assets/img/imagen1.jpg"
+        }
+
+    ],
+
+
+    "estudios": [
+        {
+            "diploma": "/assets/img/EGG.png",
+            "descripcion": "Curso Programación desde Cero (Egg academia)."
+            
+        },
+
+        {
+            
+            "diploma": "/assets/img/SeProgramar.png",
+            "descripcion": "Argentina Programa. Etapa 1: Se Programar."
+        },
+
+        {
+            
+            "diploma": "/assets/img/platzi.JPG",
+            "descripcion": "Curso definitivo de HTML y CSS. Academia Platzi."
+        },
+
+        {
+            
+            "diploma": "/assets/img/reparacionPc.JPG",
+            "descripcion": "Técnico en reparación de Pc (Academia Reparando - Standard Lift SA)."
+        },
+
+        {
+            
+            "diploma": "/assets/img/animacionesCss.JPG",
+            "descripcion": "Curso de Animaciones con CSS. Academia Platzi."
+        },
+
+        {
+            
+            "diploma": "/assets/img/comunicAsertiva.JPG",
+            "descripcion": "Curso de Comunicación Asertiva. Academia Platzi."
+        },
+
+        {
+            
+            "diploma": "/assets/img/efectiva.JPG",
+            "descripcion": "Curso de Comunicación Efectiva. Academia Platzi."
+        },
+
+        {
+            
+            "diploma": "/assets/img/empatia.JPG",
+            "descripcion": "Curso para Desarrollar la empatía. Academia Platzi."
+        }
+
+    ],
+
+
+
+
+    "proyectos": [
+
+        {            
+            "titulo": "Los Reparadores",
+            "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "IMG":"/assets/img/reparadores.jpg"
+        },
+
+        {            
+            "titulo": "PROYECTO 2",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta illum natus expedita.",
+            "IMG":"/assets/img/imagen1.jpg"
+        },
+
+        {            
+            "titulo": "PROYECTO 3",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta illum natus expedita.",
+            "IMG":"/assets/img/imagen1.jpg"
+        }
+
+
+    ],
+
+
+    "foot": "Copyright Héctor Gerardo Robledo - 2023"
+
+    
+}    
+

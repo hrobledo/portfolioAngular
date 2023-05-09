@@ -1,0 +1,19 @@
+
+
+.acercade{
+    margin-top: 3%; 
+    margin-left: 3%;
+    color: #f1f2f3;
+  }
+
+ 
+
+.circular{
+    width: 17rem;
+    height: 17rem;
+    object-fit: cover;
+    border-radius: 150px;
+    margin-top: 5%;
+    margin-left: -20%;
+    filter: brightness(70%);
+}

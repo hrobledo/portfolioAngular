@@ -1,0 +1,55 @@
+.experiencia{
+  margin-top: 10%;
+  text-align: justify;
+}
+
+.rowLaboral{
+  margin-left: 5%;  
+     
+
+}
+
+
+.maquina{
+  width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 3rem;
+  margin: 0 auto;
+  font-family: "Courier New";
+  border-right: 0.15em solid #18bdec;
+  animation: typing 5s steps(40) infinite alternate;
+  /* 1s 1 normal both, blink 1s steps(3) infinite */
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 45%;
+  }
+}
+@keyframes blink {
+  15% {
+    border-color: transparent;
+  }
+}
+
+.card-body{
+  background-color: black;
+}
+
+
+
+.card-neon:hover{
+  
+  opacity: .8;
+  border: 2px solid white;
+  box-shadow: inset 0 0 10px blue, 0 0 10px blue;
+    
+  
+}
+
+.invertir-color{
+  filter: invert(95%);
+}

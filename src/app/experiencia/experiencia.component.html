@@ -1,0 +1,23 @@
+<!-- SECCION EXPERIENDIA-->
+<section class="experiencia ">
+  <div>
+    
+    <div class="text-white exp-tit">
+      <h1 class="maquina">Experiencia Laboral</h1>
+      </div>
+      <br><br><br>
+      <div class="row rowLaboral" >
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4"  *ngFor="let experiencia of experiencias">
+      <div class="card card-neon" style="width: 18rem">
+        <img  [src]="experiencia.logoempresa" class="card-img-top" [ngClass]="experiencia.invertir" alt="...">
+        <div class="card-body">
+          <p class="card-text text-white text-center">{{ experiencia.empresa }}<br>{{ experiencia.puesto }} <p>
+        </div>
+      </div>
+      </div>
+
+     
+      </div>          
+      </div>      
+</section>
+  

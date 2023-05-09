@@ -1,0 +1,64 @@
+.log{
+    background-color: #26269c;
+    border-style: none;
+    
+  }
+  
+  .fondoFoot{
+    background-color: rgba(0,0,0,1.0)
+  }
+  
+  .fondoBod{
+    background-color: rgba(0,0,0,1.0)
+    
+    
+  }
+  
+  .modal-header{
+    border: none;
+  }
+  
+  .modal-footer{
+    border: none;
+    
+  }
+  
+  .fondoButInitSesion{
+    background-color: #26269c;
+  }
+  
+  button{
+    --bs-button-bg: transparent;
+  }
+  
+  .list-group{
+     --bs-list-group-bg: transparent;
+     cursor: pointer;
+  }
+  
+   .list-group-item{
+     border: none
+  }
+  
+   .fa-brands.fa-linkedin.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color: #f1f2f3 !important;
+  }
+  
+  .fa-brands.fa-whatsapp.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color: #f1f2f3 !important;
+  }
+  
+  .fa-brands.fa-github.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color: #f1f2f3 !important;
+  }
+  
+  .fa-solid.fa-user-lock.fa-2x:hover{
+    --bs-text-opacity: 1;
+    /* color: #f1f2f3 !important; */
+    color: #f00101 !important;
+  }
+
+ 

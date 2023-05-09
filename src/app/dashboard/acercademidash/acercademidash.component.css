@@ -1,0 +1,41 @@
+
+
+.acercade{
+    margin-top: 3%; 
+    margin-left: 3%;
+    color: #f1f2f3;
+  }
+
+  img.perfil{
+    margin-top: 10%;
+    margin-left: -30%;
+    width: 100%;
+    filter: brightness(70%);
+  
+  }
+
+.positionPen{
+  margin-left: 95%;
+}
+
+
+i.fa-pen{
+  color: hsl(0, 7%, 97%);
+  width: 60px;
+  height: 50px;
+  cursor: pointer;
+  
+}
+
+i.fa-pen:hover{
+ color: blue;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+.alinCol{
+  
+  margin-left: 10%;
+}
