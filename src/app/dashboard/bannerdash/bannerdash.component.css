@@ -40,14 +40,12 @@ section.banner{
 }
 
 i.fa-pen{
-    color: hsl(0, 7%, 97%);
-    width: 20px;
-    height: 10px;
-    cursor: pointer;
-    margin-left: 900px;   
     
-  }
+  color: aliceblue;
+  cursor: pointer;
   
-  i.fa-pen:hover{
-   color: blue;
-  }
+}
+
+i.fa-pen:hover{
+ color: aquamarine;
+}
